@@ -1,0 +1,14 @@
+/* .uploadForm {
+    display: grid;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    justify-content: center;
+    grid-template-rows: repeat(6, auto) 1fr;
+} */
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
